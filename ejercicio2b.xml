@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css"?>
+<!-- ejemplo2.xml  SUCARNET -->
+<pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+      <habitantes>1,700,000</habitantes>
+      <altura>545 MSNM</altura>
+      <moneda>dolar</moneda>
+      <codTel>503</codTel>
+      <idiomas>Espanol</idiomas>
+    </departamento>
+    <departamento id="2" nombre="Santa Ana">
+      <cabecera>Santa Ana</cabecera>
+      <habitantes>1,700,000</habitantes>
+      <altura>545 MSNM</altura>
+      <moneda>dolar</moneda>
+      <codTel>503</codTel>
+      <idiomas>Espanol</idiomas>
+    </departamento>
+  </pais>
+

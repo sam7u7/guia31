@@ -1,0 +1,27 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"moneda": "dolar",
+				"codTel": "503",
+				"idiomas": "Espanol",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"moneda": "dolar",
+				"codTel": "503",
+				"idiomas": "Espanol",
+				"_id": "2",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

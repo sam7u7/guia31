@@ -1,0 +1,6 @@
+/* ejercicio2a.css   SUCARNET  */
+pais {background-color:red;}
+departamento {background-color:purple; display:block;} 
+cabecera {color:white; display:inline;} 
+altura {color:yellow; display:inline;}
+moneda {color:yellow; font-size:1cm; display:none;}

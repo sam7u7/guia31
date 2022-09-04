@@ -1,0 +1,6 @@
+/* ejercicio1b.css   SUCARNET  */
+fichero {background-color:red;}
+ficha {background-color:gray; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow; font-size:1cm; display:none;}

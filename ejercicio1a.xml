@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a.css"?>
+<!-- ejercicio1a.xml  BA18048 -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2012">
+      <nombre>Samael</nombre>
+      <apellido>Bermudez</apellido>
+      <telefono>ba18048@ues.edu.sv</telefono>
+      <url>https://sam7u7.github.io/guia31/</url>
+      <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+</fichero>
