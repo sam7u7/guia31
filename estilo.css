@@ -1,0 +1,9 @@
+.header{
+    background-position: center;
+    background-size:cover;
+    background-color: gray;
+}
+.centrado{
+    width: 800px;
+    margin: 0px auto;
+}
